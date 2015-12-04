@@ -12,6 +12,7 @@ This is a list of Magento modules that "phone home", or send data from your stor
 ## :x: Unacceptable
 
 * [Itoris_Installer](Itoris_Installer/README.md)
+* [Magestore_Magenotification](Magestore_Magenotification/README.md)
 * [Mirasvit_MstCore](Mirasvit_MstCore/README.md)
 
 # Contributing
