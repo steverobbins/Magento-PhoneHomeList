@@ -3,6 +3,8 @@ Amasty_Base
 
 :neutral_face: Tolerable
 
+* Controller dispatched phone homes but can be disabled via admin config
+
 Affected versions:
 
 * 2.1.3
