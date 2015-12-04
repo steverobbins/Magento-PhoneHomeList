@@ -1,4 +1,4 @@
-Magestore_Magenotification
+Mage_AdminNotification
 ===
 
 :x: Unacceptable
