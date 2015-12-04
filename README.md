@@ -5,6 +5,10 @@ This is a list of Magento modules that "phone home", or send data from your stor
 
 # Known Modules
 
+## :neutral_face: Tolerable
+
+* [Amasty_Base](Amasty_Base/README.md)
+
 ## :x: Unacceptable
 
 * [Mirasvit_MstCore](Mirasvit_MstCore/README.md)
