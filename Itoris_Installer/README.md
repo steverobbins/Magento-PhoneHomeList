@@ -3,6 +3,9 @@ Itoris_Installer
 
 :x: Unacceptable
 
+* Controller dispatch based phone homes
+* Obfuscated code
+
 Affected versions:
 
 * 2.1.7
