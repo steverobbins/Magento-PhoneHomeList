@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Itoris_Installer>
+			<version>0.1.0</version>
+		</Itoris_Installer>
+	</modules>
+</config>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<config>
+   <menu>
+		<system>
+			<children>
+				<itoris_extensions >
+					<title>IToris Extensions</title> 
+				</itoris_extensions>
+			</children>
+		</system>
+	</menu>
+	<acl>
+		<resources>
+			<admin>
+				<children>
+					<system>
+						<children>
+							<itoris_extensions>
+								<title>IToris Extensions</title>
+								<children>
+							</children>
+							</itoris_extensions>
+						</children>
+					</system>
+				</children>
+			</admin>
+		</resources>
+	</acl>
+</config>
