@@ -3,6 +3,9 @@ Mirasvit_MstCore
 
 :x: Unacceptable
 
+* Event and controller dispatch based phone homes
+* Disclosure of possibly sensative information
+
 Affected versions:
 
 * 2.0.0
